@@ -18,6 +18,6 @@
 ## 원격 Repository 와 로컬 Repository 연결하기 :  git remote add origin https://github.com/loo919239/Biz-2024-11-First.git
 
 ## 원격 Repository에 push하기
-- 로컬 폴터의 파일, 폴더 들을 로컬 Repository에 압축하여 저장하기 : **git add README.md**
-- 왜 push를 하는지 comment 부착하기 : **git commit -m"커멘트"**
+- 로컬 폴터의 파일, 폴더들을 로컬 Repository에 압축하여 저장하기 : **git add README.md**
+- 왜 push를 하는지 comment 부착하기 : **git commit -m "커멘트"**
 - push하기
