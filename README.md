@@ -1,17 +1,16 @@
 # 나의 첫 프로젝트
 - Repository 정보 등록
 - 원격 Repository 생성
-- Repository 정보 등록
 - 로컬 폴터(test1)에 README.md 파일 생성
 - 로컬 Repository 생성
 - 로컬 폴더 압축하여 로컬 Repository에 저장
-- Repository에 push하기
+- 원격 Repository에 push하기
 
 
 ## Repository 정보 등록
 - 컴퓨터를 포멧했을 때 최초 한번만
-- username 등록: **git config -- global user.name loo919239**
-- email 등록 : **git config -- global user.email loo919239@loo919239.com**
+- username 등록: **git config --global user.name loo919239**
+- email 등록 : **git config --global user.email loo919239@loo919239.com**
 
 ## 로컬 Repository 생성하기
 - **bash shell**에서 **bit init** 명령 실행하기: **.git** 폴터가 생성된다.
